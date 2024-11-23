@@ -1,5 +1,5 @@
 {
-  "name": "class_3",
+  "name": "rest-api-deploy",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "engines": {
+  "node": "20.17.0"
+  },
   "dependencies": {
     "cors": "2.8.5",
     "express": "4.21.1",
